@@ -2,4 +2,5 @@
 
 Nitin Chatlani
 Brandon Ho
-Sumeya Sayd
+Sumeya Sayd - Class Description
+
