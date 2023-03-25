@@ -1,0 +1,10 @@
+
+Unit Testing:
+First Test
+We are testing the functions of getInventory() and viewContract().
+RentalSystem.getInventory(“San Diego”) → should return a array where each index is a string of the car models available to rent at the specific location
+Result: [“Tesla1”, “Tesla2”, “Tesla3”, “Honda1”, “Honda2”, “Jeep1”, “Jeep3”, “Jeep5”]
+If the string parameter is not a valid location or not a string variable, should return an error, prompting the user to input a valid string and location
+Employee.RentalSystem.viewContract(“user382394”) → should return a string containing the rental contract assigned to the userID
+Result: “I agree to return the car on March 25, 2023 at 1:00 pm without any damages and with the gas tank filled - 
+If the string parameter is not a valid user ID or not a string variable, should return an error, prompting the employee to input a valid user ID
