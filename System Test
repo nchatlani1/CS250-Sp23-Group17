@@ -1,0 +1,24 @@
+
+rentCar()
+Verify that customers can easily select and rent a car from the available inventory, and that the car's status is updated to "rented".
+Confirm that customers are prompted to provide their contact and payment information before renting a car, and that the rental price is accurate and includes any additional options selected.
+returnCar()
+Ensure that the return process is straightforward and efficient for customers, and that they receive a confirmation of their return.
+Check that the car's status is updated to "available" when it is returned to the designated location.
+getInventory()
+Check that the system provides an accurate and up-to-date inventory of available cars, including the model, rental price, and any additional options.
+Verify that the inventory matches the actual inventory at the rental shop.
+addNewCar()
+Confirm that the Employee class can successfully add a new car to the inventory, and that the car model and number of cars are updated accordingly.
+Check that the newly added car appears in the inventory list and matches the actual car added.
+manageRental()
+Verify that the Employee class can change the rental status of a car as needed, such as marking it as "unavailable" for maintenance or repairs.
+viewContract() (in the Employee class)
+Check that the viewContract() function displays the rental contract of a specific customer, given their customer ID.
+Verify that the rentalHistory attribute of the RentalSystem class is updated to reflect the rental history of the specific car.
+newAccount() (in the Users class)
+Ensure that new users can easily create an account with accurate and up-to-date information.
+Verify that the account information is saved correctly and can be used for future rentals.
+viewContract() (in the Customers class)
+Check that the viewContract() function displays the rental contract of the customer who is currently logged in.
+Verify that the rentalHistory attribute of the RentalSystem class is updated to reflect the rental history of the specific car. 
