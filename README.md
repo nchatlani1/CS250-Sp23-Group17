@@ -2,7 +2,7 @@
 
 Nitin Chatlani
 Brandon Ho
-Sumeya Sayd - Class Description
+Sumeya Sayd
 
 Software Design Specification
 CarRentalStore: Class that would include the location of the store the customer would rent the vehicle from and the cars available to be rented at the specific location. 
@@ -43,3 +43,6 @@ ccNum: integer that represents the credit card number of user account
 zipCode: integer that represents the zip code of user account
 ccCVC: integer that represents the CVC code of credit card of user account
 billingAddress: string that represents the address of the customer’s billing address
+
+Integration Testing
+
